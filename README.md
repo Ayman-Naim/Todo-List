@@ -1,41 +1,42 @@
-# Little Lemon Food Ordering App
-it's the final project of Meta iOS Developer Professional Certificate
+# TODO App
+it's the final project of IOS using objective c  at ITI
 
-Its an app that allow the users to order from menu 
+Its an app that allow the users to make todo list 
 
 
 ## vedio Demo : 
 
 
 
-<img src="https://github.com/Ayman-Naim/little-Lemon/blob/main/screen/deom.gif">
+<img src="https://github.com/Ayman-Naim/Todo-List/blob/main/screen/DEMO.gif">
 
 
 ## Features
- - [x] login Screen with data entry
- - [x] Home screen that have multiple sections
- - [x] profile page that have his personal info
- - [x] save profile info and change it
- - [x] log out button
+ - [x] you can add a Todo list task 
+ - [x] you can Edit your task any time 
+ - [x] you can set priority(high low middle ) and state(todo progress done)
+ - [x] you can delete any task you want
+ - [x] you can sort the todo list according to the priority
 
 
-## Wireframe
-![](screen/Wirefrane.png)
 
 ## screenshots:
 
 
-![](screen/login.png)
+![](screen/0.png)
+
+![](screen/1.png)
 
 
-![](screen/home.png)
+![](screen/2.png)
 
 
-![](screen/Detailed.png)
+![](screen/3.png)
 
 
-![](screen/userpage.png)
+![](screen/4.png)
 
 
+![](screen/5.png)
 
 
